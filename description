@@ -1,5 +1,5 @@
 Name: RelationAlgebra
-Title: Relation Algebra, Kleene algebra, KAT
+Title: Relation Algebra, Kleene algebra, and KAT (v1.3)
 Description: A modular library about relation algebra, from idempotent semirings to residuated Kleene allegories, including a decision tactic for Kleene algebra with Tests (KAT).
 Keywords: relation algebra, Kleene algebra with tests, KAT, allegories, residuated structures, automata, regular expressions, matrices
 Category: Mathematics/Algebra
